@@ -16,3 +16,7 @@ uint64_t Kyokumen::getBoardHash(const Board& board){
         }
     }
 }
+
+uint64_t Kyokumen::getHandPieceHash(const Game& game){
+    
+}
